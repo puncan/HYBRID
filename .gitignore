@@ -1,0 +1,34 @@
+# Stuff we want git to ignore for Python
+*.pyc
+*~
+# Stuff to ignore for text exitors
+*.swp
+# Stuff to ignore for Dymola
+
+*buildlog.txt
+*dsfinal.txt
+*dsin.txt
+*dslog.txt
+*dsmodel.c
+*dymosim
+*dymosim.exe
+*dymosim.exp
+*dymosim.lib
+*dsmodelext*.c
+*dsmodelext*.obj
+*log.txt
+*request
+*status
+*.exe
+*.log
+statistics.json
+
+*.mof
+*dsmodelext*.c
+*.xml
+empty.txt
+*/failure
+*/stop
+*/dummysystemReport.html
+*/systemReport.html
+*.bak-mo
